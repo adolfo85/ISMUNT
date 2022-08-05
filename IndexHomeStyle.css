@@ -1,0 +1,26 @@
+.body{
+    background-color: blanchedalmond;
+}
+
+.footer2 {  
+    /* position: absolute;
+    bottom: 0;  */
+    color: white;
+    width: 100%;
+}
+
+
+
+.infogeneral{
+    background-color: rgb(251, 251, 251);
+    -webkit-box-shadow: -3px 0px 16px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 0px 16px -4px rgba(0,0,0,0.75);
+    box-shadow: -3px 0px 16px -4px rgba(0,0,0,0.75);
+    border-radius: 8px;
+}
+
+.card{
+    -webkit-box-shadow: -3px 0px 16px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 0px 16px -4px rgba(0,0,0,0.75);
+    box-shadow: -3px 0px 16px -4px rgba(0,0,0,0.75);
+}
