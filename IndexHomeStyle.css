@@ -17,6 +17,9 @@ html{
     margin-top: auto;
 }
 
+.mayusculas {
+    text-transform: uppercase;
+  }
 
 
 .infogeneral{
